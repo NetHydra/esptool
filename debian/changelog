@@ -1,0 +1,6 @@
+esptool (5.0.2-hydrapwk1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Joe <joe@rstrike.my.id>  Sun, 14 Sep 2025 18:25:02 -0400
