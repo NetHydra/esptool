@@ -1,4 +1,4 @@
-esptool (5.0.2-hydrapwk1) UNRELEASED; urgency=low
+esptool (5.0.2+hydrapwk1) UNRELEASED; urgency=low
 
   * Initial release. Closes: #nnnn
     <nnnn is the bug number of your ITP>
