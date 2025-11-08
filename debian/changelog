@@ -1,3 +1,9 @@
+esptool (5.1.0+hydrapwk1) apes; urgency=low
+
+  * Import esptool 5.1.0
+
+ -- Joe <joe@rstrike.my.id>  Sat, 08 Nov 2025 19:02:00 +0700
+
 esptool (5.0.2+hydrapwk1) UNRELEASED; urgency=low
 
   * Initial release. Closes: #nnnn
